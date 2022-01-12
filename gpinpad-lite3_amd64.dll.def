@@ -1,0 +1,23 @@
+EXPORTS
+    PP_Abort @1
+    PP_Close @2
+    PP_CloseExtended @3
+    PP_Open @4
+    abecsGetClearData @5
+    abecsGetClearDataResponse @6
+    gertecCXSurveys_Get @7
+    gertecCXSurveys_Start @8
+    gertecCXSurveys_Stop @9
+    gertecMF_Activate @10
+    gertecMF_Authenticate @11
+    gertecMF_BlockConfigGet @12
+    gertecMF_BlockConfigSet @13
+    gertecMF_KeyChange @14
+    gertecMF_ReadWrite @15
+    gertecMF_ValueCommand @16
+    gertecQRCode @17
+    gertecQRCode_response @18
+    gertecSURVEY_Get @19
+    gertecSURVEY_Start @20
+    gertecSURVEY_Stop @21
+    pcl_exception_set_uncaught_handler @22
